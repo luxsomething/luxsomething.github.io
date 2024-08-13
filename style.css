@@ -1,4 +1,4 @@
-/*@import url("https://fast.fonts.net/lt/1.css?apiType=css&c=7721bb2c-caaf-4c72-a371-cb386c1e5381&fontids=1120408,1120411,1120414");
+@import url("https://fast.fonts.net/lt/1.css?apiType=css&c=7721bb2c-caaf-4c72-a371-cb386c1e5381&fontids=1120408,1120411,1120414");
 @font-face {
     font-family: "ItalianGaramondW01-Roma";
     src: url("../fonts/1120408/7f613f2d-60a8-44f5-a4d2-ca0a30a980fa.woff2") format("woff2"), url("../fonts/1120408/7c9835c0-85c5-4318-9bc3-91ac52bf5ea4.woff") format("woff");
@@ -10,7 +10,7 @@
 @font-face {
     font-family: "ItalianGaramondW01-Bold";
     src: url("../fonts/1120414/921bd080-f90d-4ca3-9fd5-db8872146f6f.woff2") format("woff2"), url("../fonts/1120414/f1062670-3f8e-4ba5-89ad-2e7daa59d194.woff") format("woff");
-}*/
+}
 *,
 *:before,
 *:after {
